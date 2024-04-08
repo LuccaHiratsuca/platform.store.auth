@@ -1,1 +1,1 @@
-# platform.store.auth
+# platform.tech-emporium.auth
